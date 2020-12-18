@@ -62,7 +62,7 @@ a:hover {
     padding: 30px 0px 0px 0px;
 }
 
-.nav .name {
+.nav .myname {
     display: inline-block;
     margin-right: auto;
     color: #262626;
@@ -129,7 +129,7 @@ hr {
     height: 300px;
 }
 
-.iconcontainer.first {
+.col2 {
     display: inline-block;
     float: left;
     display: block;
@@ -137,7 +137,7 @@ hr {
     padding-left: 160px;
 }
 
-.iconcontainer img {
+.imagecol1 img {
     float: left;
     margin: 0 auto;
     text-align: right;
@@ -169,7 +169,7 @@ ul li {
     margin: 1em 0;
 }
 
-.fullhome {
+.main-container {
     overflow: hidden;
     background-color: white;
     height: 100%;
@@ -228,15 +228,15 @@ a.social {
 }
 
 a.twitter {
-    background-image: url(../images/twitter.svg);
+    background-image: url(../../images/twitter.svg);
 }
 
 a.linkedin {
-    background-image: url(../images/linkedin.svg);
+    background-image: url(../../images/linkedin.svg);
 }
 
 a.github {
-    background-image: url(../images/github.svg);
+    background-image: url(../../images/github.svg);
 }
 
 a.social:hover {
